@@ -1,66 +1,95 @@
+
+<div align="center">
+
 # 👋 Hi, I'm Siva Kumar!
 
-### 🐍 Python Developer | Software Developer | Tech Enthusiast
+### 💻 Full Stack Developer | Python Developer
 
-Welcome to my GitHub profile! I'm passionate about programming, software development, and building real-world applications.
+🚀 Passionate about building modern websites and applications.
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js,ts,react,nodejs,flask,django,mysql,git,github" />
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🐍 Primary Technology: **Python**
-- 💻 Interested in Software Development
-- 🌱 Learning new technologies and improving my coding skills
-- 🎯 Goal: Build innovative real-world projects
-- 📍 India
+- 💻 Full Stack Developer
+- 🐍 Python Developer
+- 🌐 Frontend & Backend Development
+- 🗄️ Database: MySQL, MongoDB, PostgreSQL
+- 🚀 Interested in building real-world applications
+- 🎯 Always learning new technologies
 
 ## 💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python"/>
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML"/>
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS"/>
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL"/>
-  <img src="https://skillicons.dev/icons?i=c" height="50" alt="C"/>
-  <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,html,css,php,go,rust,ruby,cs,kotlin,swift,dart,bash" />
+</p>
+
+## 🎨 Frontend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,vue,bootstrap,tailwind,sass" />
+</p>
+
+## ⚙️ Backend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,flask,django,fastapi,nodejs,express,php,laravel,spring,dotnet" />
+</p>
+
+## 🗄️ Database & Cloud
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis,firebase,supabase,aws,azure,gcp" />
 </p>
 
 ## 🛠️ Tools & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,flask,mysql,linux" alt="Tools and Technologies"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,postman,docker,kubernetes,linux,figma,vercel,netlify" />
 </p>
 
-## 📌 Featured Projects
-
-- 🚌 **Chennai One Bus Ticket Booking System**
-  - Web application using Python Flask and MySQL.
-  - Online bus ticket booking prototype.
+---
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="165"/>
-</p>
+<div align="center">
 
-## 🔥 Contribution Streak
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+- 🚌 Chennai One Bus Ticket Booking System
+- 🌐 Full Stack Web Applications
+- 🐍 Python Development Projects
 
 ---
 
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://skillicons.dev/icons?i=github" height="40"/>
-  </a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://skillicons.dev/icons?i=github" height="45" />
+</a>
 </p>
 
-⭐ Thanks for visiting my profile!
+---
 
-**Happy Coding! 🐍**
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+### BUILD • LEARN • CODE • REPEAT 🚀
+
+</div>
